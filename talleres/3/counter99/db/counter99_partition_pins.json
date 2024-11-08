@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DISPLAY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY[6]",
+					"strict" : false
+				},
+				{
+					"name" : "TRANSISTOR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TRANSISTOR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "INI",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

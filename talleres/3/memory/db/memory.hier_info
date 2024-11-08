@@ -1,0 +1,17 @@
+|memory
+clk => current_state~1.DATAIN
+reset => current_state~3.DATAIN
+ready => Selector0.IN2
+ready => Selector1.IN2
+ready => Selector2.IN3
+ready => Selector3.IN3
+ready => next_state.OUTPUTSELECT
+ready => next_state.OUTPUTSELECT
+ready => Selector0.IN5
+ready => Selector1.IN5
+r_w => next_state.DATAB
+r_w => next_state.DATAB
+oe <= oe.DB_MAX_OUTPUT_PORT_TYPE
+we <= we.DB_MAX_OUTPUT_PORT_TYPE
+
+

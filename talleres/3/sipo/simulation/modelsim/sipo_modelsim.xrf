@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/1114309030/Desktop/sipo/sipo.bdf
+source_file = 1, C:/Users/1114309030/Desktop/sipo/db/sipo.cbx.xml
+design_name = sipo
+instance = comp, \led1~output , led1~output, sipo, 1
+instance = comp, \led2~output , led2~output, sipo, 1
+instance = comp, \led3~output , led3~output, sipo, 1
+instance = comp, \led4~output , led4~output, sipo, 1
+instance = comp, \clk~input , clk~input, sipo, 1
+instance = comp, \clk~inputclkctrl , clk~inputclkctrl, sipo, 1
+instance = comp, \data~input , data~input, sipo, 1
+instance = comp, \inst~feeder , inst~feeder, sipo, 1
+instance = comp, \inst2~feeder , inst2~feeder, sipo, 1
+instance = comp, \inst1~feeder , inst1~feeder, sipo, 1
+instance = comp, \inst4~feeder , inst4~feeder, sipo, 1
