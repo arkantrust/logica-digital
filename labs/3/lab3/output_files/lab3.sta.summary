@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -3.745
+TNS   : -79.622
+
+Type  : Slow 1200mV 85C Model Setup 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -2.781
+TNS   : -65.468
+
+Type  : Slow 1200mV 85C Model Hold 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -0.355
+TNS   : -0.624
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.706
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -44.636
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -1.487
+TNS   : -47.584
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -3.497
+TNS   : -72.429
+
+Type  : Slow 1200mV 0C Model Setup 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -2.522
+TNS   : -59.186
+
+Type  : Slow 1200mV 0C Model Hold 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -0.284
+TNS   : -0.496
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.654
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -44.636
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -1.487
+TNS   : -47.584
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -0.947
+TNS   : -21.217
+
+Type  : Fast 1200mV 0C Model Setup 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -0.656
+TNS   : -11.898
+
+Type  : Fast 1200mV 0C Model Hold 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -32.674
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'TOP:inst1|UART_BaudRate_generator:I_BAUDGEN|baudRateReg[0]'
+Slack : -1.000
+TNS   : -32.000
+
+------------------------------------------------------------
